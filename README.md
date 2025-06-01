@@ -221,13 +221,6 @@ npx prisma studio
 # Direct database access
 psql postgresql://postgres:password@localhost:5432/mpesa_db
 ```
-
-## 📄 API Documentation
-
-Access interactive Swagger documentation:
-- Development: `http://{url}/api-docs`
-
-
 ### Debug Mode
 
 Enable detailed logging:
